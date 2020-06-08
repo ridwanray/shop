@@ -1,0 +1,2 @@
+# shop
+Django Shop
