@@ -1,0 +1,17 @@
+.*
+!.dockerignore
+!.storybook
+!.circle
+!.gitignore
+!.github
+!.babelrc
+!.plop
+!.jest
+!.linguirc
+!.prettierrc
+dist
+node_modules
+src/locales/_build
+
+cypress/videos
+cypress/screenshots
